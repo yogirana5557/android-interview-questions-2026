@@ -28,11 +28,26 @@ Stop wasting hours browsing outdated blog posts. Get a structured preparation ch
 
 ---
 
+### 2. Jetpack Compose Cookbook (Premium UI & Animations)
+
+A curated collection of production-grade, highly optimized recipes for building premium UIs, smooth spring-physics animations, custom graphics, and high-performance lists in modern Android apps.
+
+Stop debugging declarative UI glitches. Access copy-pasteable Kotlin code blocks and visual design blueprints covering:
+* **Layouts & Structures**: Collapsible nested-scroll headers, Pinterest staggered grids, sticky list headers.
+* **Animations**: Swipe-to-reveal items, shimmering loading skeletons, expandable FAB menus.
+* **Canvas & Custom Graphics**: Circular fitness ring sweeps, Bezier curve analytics charts, growing vertical bars.
+* **State & Performance**: Scroll-state derivedStateOf buffering, zoom/pan gesture modifiers, custom keys & content types.
+
+#### 🚀 Instant Action:
+* [👉 **Get the PDF eBook on Gumroad (₹299)**](https://yogirana.gumroad.com/l/sriav) *(Includes print-ready, ad-free PDF with visual mockups and lifetime updates)*
+* [📖 **Browse 2 Free Sample Recipes**](./jetpack-compose-cookbook/) *(Read full blueprints, design previews, and code analysis right here on GitHub)*
+
+---
+
 ## ⚡ Upcoming Products (Coming Soon)
 
 We are actively writing and coding our next premium developer handbooks:
-1. **Jetpack Compose Cookbook**: 50+ copy-paste UI components, animations, and custom canvases.
-2. **Android System Design & Architecture**: Designing scalable, offline-first mobile apps from scratch.
+1. **Android System Design & Architecture**: Designing scalable, offline-first mobile apps from scratch.
 
 *Follow this repository or watch releases to be notified when these products go live!*
 

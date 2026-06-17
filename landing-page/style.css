@@ -353,12 +353,7 @@ header {
 }
 
 .cover-compose {
-    background: linear-gradient(135deg, #1e293b 0%, #1e1b4b 100%);
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    padding: 20px;
-    border: 1px solid rgba(255, 255, 255, 0.05);
+    background-image: url('cover-compose.png');
 }
 
 .cover-design {
