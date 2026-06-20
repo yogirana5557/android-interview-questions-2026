@@ -122,6 +122,22 @@ Access production-grade Kotlin blueprints and core concurrency strategies coveri
 
 ---
 
+### 8. Jetpack Compose & UI Architecture: Ultimate Interview Prep Blueprint
+
+A Senior & Lead Engineer's guide to cracking the declarative UI and UI architecture loops, containing 55 deep-dive Q&As, Compose runtime internals (slot table, gap buffer), state management patterns, and custom layouts.
+
+Access production-grade Kotlin blueprints and core Compose strategies covering:
+* **Compose Runtime & Internals**: Slot table and gap buffer internals, snapshot state system, recomposition loops, positional memoization, and custom CompositionLocal usages.
+* **State Management & Lifecycle**: Flow collection lifecycle awareness, UI state modeling architectures, ViewModels integration, and one-time UI event flows.
+* **Custom Layouts & Modifiers**: Modifier chain order constraints, custom Layout measure-and-place policies, pointer input gesture processing, and nested scroll connections.
+* **View Interoperability, Testing & Performance**: AndroidView / ComposeView interop boundaries, semantics tree node assertions, Compose stability rules (`@Stable`/`@Immutable`), and recomposition-free canvas drawing.
+
+#### 🚀 Instant Action:
+* [👉 **Get the Playbook on Gumroad (₹2,499 / ₹3,999)**](https://yogirana.gumroad.com/l/mtziu) *(Includes print-ready PDFs, 82-Page Master Playbook, and the full Audio Companion)*
+* [📖 **Browse Free Sample Chapter**](./jetpack-compose-interview-prep/) *(Read under-the-hood Compose runtime internals, gap buffer memory tape, and sample answers right here on GitHub)*
+
+---
+
 ## ⚡ Upcoming Products (Coming Soon)
 
 We are actively writing and coding our next premium developer handbooks.
