@@ -4,7 +4,18 @@
 [![Android](https://img.shields.io/badge/Android-14+-3DDC84.svg?style=flat&logo=android)](https://developer.android.com)
 [![Compose](https://img.shields.io/badge/Jetpack_Compose-Premium-4285F4.svg?style=flat&logo=jetpackcompose)](https://developer.android.com/jetpack/compose)
 
-Welcome to the **AndroidDev Suite** catalog repository. Here you can access free samples, checklists, and code resources for our premium Android software engineering handbooks.
+Welcome to the **AndroidDev Suite** catalog repository. This is an open-source library of production-grade code templates, architectural checklists, and interview guides for Android software engineers. 
+
+Here you can access free samples and guides for our premium handbooks covering:
+* **Jetpack Compose UI & Animations**: Collapsible headers, custom Canvas charts, and 60 FPS drawing recipes.
+* **Kotlin Multiplatform (KMP) & Compose Multiplatform**: Shared version catalogs, Ktor networking, Koin DI, and Room caching.
+* **Android System Design & Architecture**: Offline-first apps, Version Catalogs, multi-module setups, and WorkManager syncs.
+* **Android Performance Optimization & Profiling**: Memory leaks detection, custom cache, R8 rule tuning, and Macrobenchmark tests.
+* **Android Security, Hardening & Frida Protection**: Play Integrity verification, root detection, SQLCipher encryption, and Frida scanner.
+* **Android Interview Questions & Study Bank**: 300 curated questions and answers from Junior to Senior level.
+
+> [!TIP]
+> **Support this project!** If you find these checklists, code samples, and reference guides helpful, please drop a ⭐ **Star** on this repository to help other developers discover it!
 
 ---
 

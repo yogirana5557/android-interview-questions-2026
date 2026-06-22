@@ -2,7 +2,10 @@
 
 Welcome to the open-source sample repository and reference checklist for the **Kotlin Multiplatform & Concurrency Developer Cheat Sheet**.
 
-This cheat sheet is a high-performance quick-reference card detailing Kotlin 2.4.0 centralized version catalog configurations, target architectures, Ktor shared engines, Koin injection patterns, Swift coroutines observers, and thread pool dispatch loops.
+This cheat sheet is a high-performance quick-reference card detailing Kotlin 2.4.0 centralized version catalog configurations, target architectures, Ktor shared engines, Koin dependency injection patterns, Swift coroutines observers, and thread pool dispatch loops.
+
+> [!TIP]
+> **Help this reference grow!** If you find this cheat sheet and its code configurations useful, please support the project by dropping a ⭐ **Star** on the repository!
 
 ---
 
