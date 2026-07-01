@@ -95,6 +95,6 @@ class HybridAssistantRepository(
 This setup is part of the **Android Dev Suite** resources. If you want the complete, print-ready vector PDF guide (which includes system configurations, memory parameters, token budgets, and the Android Studio starter project), you can grab the package below:
 
 ### 🛍️ Get the Playbook & Starter Code Project:
-* **Tier 1: Playbook PDF Only** (₹249 / ~$2.99 USD) ➡️ **[Get PDF Playbook](https://yogirana.gumroad.com/l/android-ai-playbook)**
-* **Tier 2: Premium Developer Bundle** (₹499 / ~$5.99 USD) ➡️ **[Get PDF + Android Studio Starter Project](https://yogirana.gumroad.com/l/android-ai-playbook)**
+* **Tier 1: Playbook PDF Only** (₹249 / ~$2.99 USD) ➡️ **[Get PDF Playbook](https://yogirana.gumroad.com/l/vxtqel)**
+* **Tier 2: Premium Developer Bundle** (₹499 / ~$5.99 USD) ➡️ **[Get PDF + Android Studio Starter Project](https://yogirana.gumroad.com/l/vxtqel)**
   *(Includes a clean, Hilt-injected, ready-to-run Android Studio project implementing on-device chat using AICore and AI Edge SDK).*

@@ -226,7 +226,7 @@ Access production-grade Kotlin blueprints and on-device AI strategies covering:
 * **Memory & Performance Constraints**: Token budget guidelines, context window management, avoiding main-thread GC thrashing, and lifecycle binding.
 
 #### 🚀 Instant Action:
-* [👉 **Get the Playbook on Gumroad (₹249 / ₹499)**](https://yogirana.gumroad.com/l/android-ai-playbook) *(Includes print-ready, ad-free PDF guidebook and the Android Studio chat app starter code template)*
+* [👉 **Get the Playbook on Gumroad (₹249 / ₹499)**](https://yogirana.gumroad.com/l/vxtqel) *(Includes print-ready, ad-free PDF guidebook and the Android Studio chat app starter code template)*
 * [📖 **Browse Free Sample Chapter**](./android-on-device-ai-playbook/) *(Read the complete client wrapper, fallback setup, and code blueprints right here on GitHub)*
 
 ---
